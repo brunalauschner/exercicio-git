@@ -1,0 +1,6 @@
+nome_do_integrante.txt
+Nome: Bruna Lauschner
+Idade: 16
+Série: Doctor who
+Livro: Peter pan tem que morrer
+Filme: Ratattouile
